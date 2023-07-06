@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Preview Project\preview_project\preview_project.PrjPcb
+[Project2]
+ProjectPath=..\..\Altium\default-scripts\Scripts\Scripts\Delphiscript Scripts\SCH\Import Pins\ImportPins.PRJSCR
